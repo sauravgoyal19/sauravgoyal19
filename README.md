@@ -27,15 +27,6 @@ currently leading KPI reporting and GenAI initiatives in healthcare.
 My background spans building enterprise ETL/data-warehouse pipelines to
 hands-on business analytics and stakeholder-facing reporting.
 
-## Experience
-
-| | | |
-|---|---|---|
-| **Optum, UnitedHealth Group** — *Data Analyst* | Dec 2024 – Present | Author Snowflake stored procedures turning millions of daily call records into KPI reports for 100+ clients; built the backend of **CLIO**, a GenAI conversational-analytics chatbot (Flask + LangChain agents); lead a 4-member delivery team. |
-| **PwC** — *Data Engineer Consultant* | Nov 2022 – Dec 2024 | Built ADF pipelines and Azure Analysis Services fact/dimension models powering Unilever's Power BI/DAX dashboards; used PySpark to analyze airport operations KPIs (footfall, baggage handling, queue times). |
-| **Accenture** — *Data Engineer Analyst* | Jul 2021 – Nov 2022 | Built ADF/ETL pipelines, designed OLAP cubes and fact/dimension models, and built Power BI dashboards from scratch with business stakeholders. |
-| **Snapdeal** — *Data Analyst, Supply Chain* | Mar 2020 – Mar 2021 | Increased First Attempt Success Rate by 12% through pincode serviceability and root-cause analysis. |
-
 ## Skills
 
 - **Languages**: SQL, Python, R, VBA
@@ -43,26 +34,6 @@ hands-on business analytics and stakeholder-facing reporting.
 - **BI & visualization**: Power BI, Tableau, DAX
 - **ML / GenAI**: PySpark, pandas, NumPy, LangChain, OpenAI, scikit-learn
 - **Cloud**: AWS Lambda, Amazon Lex, DynamoDB
-
-## Data Science & ML Projects
-
-Applied ML practice alongside my day-to-day data engineering/analytics work:
-
-| Project | What it demonstrates |
-|---|---|
-| [Credit Card Fraud Detection](https://github.com/sauravgoyal19/credit_card_anomaly_finder) | Unsupervised (Isolation Forest / LOF) vs. supervised (Logistic Regression) approaches to a highly imbalanced classification problem, evaluated on minority-class F1 rather than misleading raw accuracy. |
-| [COVID-19 India Predictions](https://github.com/sauravgoyal19/covid_19_india_predictions) | EDA and time-series forecasting (Prophet) on state-wise case data — the same EDA-to-forecast workflow used in KPI/trend reporting. |
-| [Sensor Anomaly Detection (VAE)](https://github.com/sauravgoyal19/anamoly) | A Variational Autoencoder detecting anomalies in multi-sensor time series via reconstruction error. |
-| [Fake News Predictor](https://github.com/sauravgoyal19/fake_news_predictor) | Bag-of-words text features with a Decision Tree classifier for binary text classification. |
-| [Twitter Sentiment Analysis](https://github.com/sauravgoyal19/twitter_sentinement_analysis) | Text preprocessing, hashtag analysis, and a BoW/TF-IDF + Logistic Regression sentiment baseline. |
-| [Movie Recommender](https://github.com/sauravgoyal19/movie_recommender) | Item-based collaborative filtering on the MovieLens dataset. |
-
-## GitHub stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sauravgoyal19&show_icons=true&theme=default&hide_border=true" alt="Saurav's GitHub stats" height="165"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravgoyal19&layout=compact&hide_border=true" alt="Top languages" height="165"/>
-
-<br clear="both"/>
 
 ## Connect
 
