@@ -2,7 +2,7 @@
 <p align="center"><b>Data Analyst · Data Engineer</b> — 6+ years turning raw data into decisions</p>
 
 <p align="center">
-📍 Gurgaon, India &nbsp;|&nbsp; 📧 <a href="mailto:19sauravgoyal@gmail.com">19sauravgoyal@gmail.com</a> &nbsp;|&nbsp; 💼 <a href="https://linkedin.com/in/sauravgoyal19">linkedin.com/in/sauravgoyal19</a>
+💼 <a href="https://linkedin.com/in/sauravgoyal19">linkedin.com/in/sauravgoyal19</a>
 </p>
 
 <p align="center">
@@ -23,9 +23,9 @@
 ## About
 
 Data professional with 6+ years across **data engineering, analytics, and business analysis**,
-currently leading KPI reporting and GenAI initiatives in healthcare at Optum (UnitedHealth Group).
-Background spans building enterprise ETL/data-warehouse pipelines (PwC, Accenture) to
-hands-on business analytics and stakeholder-facing reporting (Snapdeal).
+currently leading KPI reporting and GenAI initiatives in healthcare. 
+My background spans building enterprise ETL/data-warehouse pipelines to
+hands-on business analytics and stakeholder-facing reporting.
 
 ## Experience
 
