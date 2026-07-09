@@ -1,5 +1,5 @@
 <h1 align="center">Saurav Goyal</h1>
-<p align="center"><b>Data Analyst · Data Engineer · Data Scientist</b> — 6+ years turning raw data into decisions</p>
+<p align="center"><b>Data Analyst · Data Engineer · Data Scientist</b> - 6+ years turning raw data into decisions</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
