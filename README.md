@@ -2,10 +2,6 @@
 <p align="center"><b>Data Analyst · Data Engineer</b> — 6+ years turning raw data into decisions</p>
 
 <p align="center">
-💼 <a href="https://linkedin.com/in/sauravgoyal19">linkedin.com/in/sauravgoyal19</a>
-</p>
-
-<p align="center">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/>
